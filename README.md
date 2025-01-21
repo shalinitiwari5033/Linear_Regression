@@ -1,1 +1,4 @@
-# Linear_Regression
+# linear-regression
+Detail explanation of Linear Regression
+lets strt
+
